@@ -153,8 +153,3 @@ Mark Zuckerberg 在外国，也永远都不会沦落到乞讨的地步。他可�
 
 感谢 Sam Altman, Paul Buchheit, John Collison, Patrick Collison, Jessica Livingston, Robert Morris, Geoff Ralston, and Fred Wilson 阅读了初稿。
 
-
-Here is some text containing a footnote.[^somelink]
-
-
-[somelink]:http://somelink.com
