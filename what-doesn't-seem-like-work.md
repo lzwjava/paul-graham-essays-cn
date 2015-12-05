@@ -1,15 +1,15 @@
-My father is a mathematician. For most of my childhood he worked for Westinghouse, modelling nuclear reactors.
+我的父亲是一个数学家。在我小时候，他很长时间都在西屋电气公司工作，为核武器反应堆建模。
 
-He was one of those lucky people who know early on what they want to do. When you talk to him about his childhood, there's a clear watershed at about age 12, when he "got interested in maths." He grew up in the small Welsh seacoast town of Pwllheli. As we retraced his walk to school on Google Street View, he said that it had been nice growing up in the country.
+他是少数的在童年就知道自己想从事什么的幸运儿。当你和他谈论童年的时候，会发现12岁有一个分水岭，那时他对数学变得很感兴趣。他在英国普尔赫利的威尔士海岸长大。我们从谷歌街景图追溯了他上学的路，他说在那个乡下长大很美好。
 
-"Didn't it get boring when you got to be about 15?" I asked.
+“当你长大到15岁的时候，你会感觉到无聊吗？”我问道。
 
-"No," he said, "by then I was interested in maths."
+“不，”他说，“在那时，我对数学很感兴趣。”
 
-In another conversation he told me that what he really liked was solving problems. To me the exercises at the end of each chapter in a math textbook represent work, or at best a way to reinforce what you learned in that chapter. To him the problems were the reward. The text of each chapter was just some advice about solving them. He said that as soon as he got a new textbook he'd immediately work out all the problems—to the slight annoyance of his teacher, since the class was supposed to work through the book gradually.
+在另外一次聊天中，他告诉我他真正感兴趣的是解决问题。对我而言，数学书上每章节最后的练习题意味着任务，或者稍微好点，意味着强化你在课堂上所学的知识的一种方法。对他而言，那些习题就像是奖励品。每章节的内容就好比一些提示，让你去解开这些问题。他说，每当他拿到一本教科书的时候，他会马上做出所有的习题——有点惹老师讨厌，因为老师希望同学们根据教学进度来逐渐完成习题。
 
-Few people know so early or so certainly what they want to work on. But talking to my father reminded me of a heuristic the rest of us can use. If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for. For example, a lot of programmers I know, including me, actually like debugging. It's not something people tend to volunteer; one likes it the way one likes popping zits. But you may have to like debugging to like programming, considering the degree to which programming consists of it.
+只有很少的人这么幼小的时候如此肯定他们未来想从事什么。但和我父亲聊天，我想到了一个我们都能用得上的方法。如果某样事情对于别人来说是任务而对于你来说不是，那么说明你适合做这类事情。例如，大多数我认识的程序员，包括我，实际上喜欢的是调试。这并不是人们自发就想干的；喜欢这个，好比一些人喜欢捏青春痘一样。考虑到调试在编程中所占的比重，你喜欢写代码的话，最好也喜欢调试。
 
-The stranger your tastes seem to other people, the stronger evidence they probably are of what you should do. When I was in college I used to write papers for my friends. It was quite interesting to write a paper for a class I wasn't taking. Plus they were always so relieved.
+你跟一般人的喜好越不一样，越表明那应该是你所从事的。我在大学的时候，我经常为我的朋友们写论文。为一个我没上过课的课程写论文，真的很有趣。另外，它们真的很让人放松。
 
-It seemed curious that the same task could be painful to one person and pleasant to another, but I didn't realize at the time what this imbalance implied, because I wasn't looking for it. I didn't realize how hard it can be to decide what you should work on, and that you sometimes have to figure it out from subtle clues, like a detective solving a case in a mystery novel. So I bet it would help a lot of people to ask themselves about this explicitly. What seems like work to other people that doesn't seem like work to you?
+这真的是令人好奇：同样的任务，对某些人而言是如此痛苦，对另外一些人而言如此有趣，但那时我并没有意识到这个不平衡意味着什么，当时也没去多想。我当时没有意识到决定自己该从事什么是如此困难。因此，有时候你需要从一些微小的迹象来找出自己适合干什么，就像侦探在看悬疑小说的时候识破了一个案件。所以我相信明确地去问自己这个问题会帮助到很多人：什么事情在别人眼里看起来是件任务，对你而言却不是的？（What seems like work to other people that doesn't seem like work to you?）
