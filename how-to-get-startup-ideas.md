@@ -199,3 +199,6 @@ Paul Buchheit 说在一个快速变化的领域中，最前沿的那些人“生
 寻找创业点子是一门非常精巧的生意，这也是为什么大多数尝试的人都会不幸地以失败告终。简单地试着去把创业点子想出来是行不通的。如果你那样做了，你会得到很糟糕的但听起来非常赞的点子。最好的方法或许是间接的：如果你有相应的背景，好的创业点子在你看来会是显然的。但尽管如此，也不会是立刻的。需要花时间来遇到某些情景，来让你意识到某些东西是缺失的。通常这些缺失的沟壑看起来并不会像是可以开公司的点子，仅仅是做出来会很有趣的东西。所以这也是为什么需要时间和意愿来去做仅仅有趣的东西。
 
 生活在未来，然后去创造看起来有趣的东西。听起来有点奇怪，但这是真正的灵丹妙方。
+
+
+感谢 Sam Altman, Mike Arrington, Paul Buchheit, John Collison, Patrick Collison, Garry Tan, 和 Harj Taggar 阅读了初稿, 感谢 Marc Andreessen, Joe Gebbia, Reid Hoffman, Shel Kaphan, Mike Moritz 和 Kevin Systrom 回答了我的关于创业公司历史的问题。
