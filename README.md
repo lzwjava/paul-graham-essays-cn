@@ -9,3 +9,4 @@
 * [为什么在经济不好的时候去创业](./why-to-start-a-startup-in-a-bad-economy.md)
 * [为什么还不去创业](./why-to-not-not-start-a-startup.md)
 * [杀死创业公司的 18 个错误](./the-18-mistakes-that-kill-startups.md)
+* [麻烦盲区](./schlep-blindness.md)
